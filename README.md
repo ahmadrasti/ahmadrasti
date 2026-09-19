@@ -19,11 +19,11 @@ My work is guided by three principles:
 
 ## Selected work
 
-### [Synthetic Retail Analytics Pipeline](https://github.com/ahmadrasti/synthetic-retail-analytics-pipeline)
+### [Retail Analytics Engineering](https://github.com/ahmadrasti/retail-analytics-engineering)
 
-A reproducible Python pipeline for retail KPI reporting, dimensional analysis, period comparisons, and privacy-aware management summaries using explicitly synthetic data.
+A reproducible clean-room retail analytics engineering project using fully synthetic data, with deterministic data generation, validation, dimensional analysis, testing, and CI.
 
-`Python` · `pandas` · `Data Engineering` · `Business Intelligence` · `Testing` · `GitHub Actions`
+`Python` · `pandas` · `Data Engineering` · `Analytics Engineering` · `Testing` · `GitHub Actions`
 
 > Additional Graph ML, forecasting, and applied-ML case studies are being prepared for public release after reproducibility and publication review.
 
@@ -39,6 +39,7 @@ A reproducible Python pipeline for retail KPI reporting, dimensional analysis, p
 **Core:** Python · SQL · pandas · NumPy · scikit-learn  
 **ML & research:** PyTorch · TensorFlow · Graph Neural Networks · Deep Learning  
 **Engineering:** Git · testing · CI · reproducible environments · data validation  
+**Data & BI:** Power BI · Apache Superset · MySQL · PostgreSQL  
 **Communication:** technical documentation · data visualization · research reporting
 
 ## How I work
@@ -53,5 +54,6 @@ I value simple architectures that can be explained, tested, and maintained. For 
 
 - [LinkedIn — Ahmad Rasti Barzoki](https://linkedin.com/in/ahmad-rasti-barzoki)
 - [GitHub — @ahmadrasti](https://github.com/ahmadrasti)
+- [ORCID — 0009-0002-7820-1497](https://orcid.org/0009-0002-7820-1497)
 
 <p align="center"><sub>Open to data science, machine learning, applied AI, and research collaborations.</sub></p>
