@@ -19,11 +19,11 @@ My work is guided by three principles:
 
 ## Selected work
 
-### [Synthetic Retail Analytics Pipeline](https://github.com/ahmadrasti/synthetic-retail-analytics-pipeline)
+### [Retail Analytics Engineering](https://github.com/ahmadrasti/retail-analytics-engineering)
 
-A reproducible Python pipeline for retail KPI reporting, dimensional analysis, period comparisons, and privacy-aware management summaries using explicitly synthetic data.
+A reproducible clean-room retail analytics engineering project using fully synthetic data, with deterministic data generation, validation, dimensional analysis, testing, and CI.
 
-`Python` · `pandas` · `Data Engineering` · `Business Intelligence` · `Testing` · `GitHub Actions`
+`Python` · `pandas` · `Data Engineering` · `Analytics Engineering` · `Testing` · `GitHub Actions`
 
 > Additional Graph ML, forecasting, and applied-ML case studies are being prepared for public release after reproducibility and publication review.
 
