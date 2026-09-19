@@ -39,6 +39,7 @@ A reproducible Python pipeline for retail KPI reporting, dimensional analysis, p
 **Core:** Python · SQL · pandas · NumPy · scikit-learn  
 **ML & research:** PyTorch · TensorFlow · Graph Neural Networks · Deep Learning  
 **Engineering:** Git · testing · CI · reproducible environments · data validation  
+**Data & BI:** Power BI · Apache Superset · MySQL · PostgreSQL  
 **Communication:** technical documentation · data visualization · research reporting
 
 ## How I work
@@ -53,5 +54,6 @@ I value simple architectures that can be explained, tested, and maintained. For 
 
 - [LinkedIn — Ahmad Rasti Barzoki](https://linkedin.com/in/ahmad-rasti-barzoki)
 - [GitHub — @ahmadrasti](https://github.com/ahmadrasti)
+- [ORCID — 0009-0002-7820-1497](https://orcid.org/0009-0002-7820-1497)
 
 <p align="center"><sub>Open to data science, machine learning, applied AI, and research collaborations.</sub></p>
