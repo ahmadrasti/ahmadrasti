@@ -54,11 +54,14 @@ A reproducible clean-room retail analytics engineering project using fully synth
 
 ```text
 Question → Data contract → Reproducible pipeline → Valid evaluation → Clear decision
+```
 
 I value systems that can be explained, tested, and maintained. For research-facing work, I document data provenance, experimental assumptions, evaluation protocols, limitations, and the boundary between historical results and newly reproduced evidence.
 
-Contact
-LinkedIn — Ahmad Rasti Barzoki
-GitHub — @ahmadrasti
-ORCID — 0009-0002-7820-1497
-<p align="center"><sub>Open to data science, machine learning, applied AI, and research opportunities.</sub></p> ```
+## Contact
+
+- [LinkedIn — Ahmad Rasti Barzoki](https://linkedin.com/in/ahmad-rasti-barzoki)
+- [GitHub — @ahmadrasti](https://github.com/ahmadrasti)
+- [ORCID — 0009-0002-7820-1497](https://orcid.org/0009-0002-7820-1497)
+
+<p align="center"><sub>Open to data science, machine learning, applied AI, and research opportunities.</sub></p>
