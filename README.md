@@ -9,7 +9,7 @@
 
 ## Building useful systems from data and research
 
-I am a Data Scientist and Machine Learning Engineer working across **applied AI, Graph ML, forecasting, and analytics engineering**. I turn analytical questions and research ideas into reproducible workflows—with explicit assumptions, defensible evaluation, and practical outputs.
+I am a Data Scientist and Machine Learning Engineer working across **data engineering, analytics engineering, applied AI, Graph ML, and forecasting**. I turn analytical questions and research ideas into reproducible workflows—with explicit assumptions, defensible evaluation, and practical outputs.
 
 My work is guided by three principles:
 
@@ -21,9 +21,9 @@ My work is guided by three principles:
 
 ### [Graph Anomaly Detection](https://github.com/ahmadrasti/graph-anomaly-detection)
 
-A reconstructed, tested, and reproducible implementation of my M.Sc. research on graph-based anomaly detection using Graph Attention Networks and MST-geodesic regularization.
+A research-focused Graph Neural Network / Graph Autoencoder anomaly detection implementation, with reconstructed reference experiments and reproducible evaluation.
 
-The project includes deterministic experiments, automated testing, CI, explicit dataset provenance, and reproduced evaluation on the official LMU WDBC benchmark.
+The project includes deterministic experiments, automated testing, CI, and explicit dataset provenance. Historical thesis results and reconstructed experiments are documented as separate evidence.
 
 `Python` · `PyTorch` · `PyTorch Geometric` · `Graph Neural Networks` · `Anomaly Detection` · `Reproducible Research`
 
@@ -35,6 +35,22 @@ A reproducible clean-room retail analytics engineering project using fully synth
 
 `Python` · `pandas` · `Data Engineering` · `Analytics Engineering` · `Testing` · `GitHub Actions`
 
+---
+
+### [Rahkaran ERP → MySQL Integration](https://github.com/ahmadrasti/rahkaran-erp-mysql-integration)
+
+Clean-room reference implementation of a synthetic Rahkaran ERP-to-MySQL integration pipeline. It demonstrates REST API integration, validation, pagination, retries/backoff, incremental synchronization, persisted checkpoints, idempotent MySQL loading, audit logging, Docker, GitHub Actions, and real MySQL 8.4 integration testing in CI.
+
+This is an independently reconstructed portfolio demonstration, not a production or official Rahkaran implementation.
+
+`Python` · `REST APIs` · `MySQL` · `Data Engineering` · `Docker` · `GitHub Actions` · `CI/CD`
+
+## Current engineering focus
+
+- Working on enterprise API integration and ERP-to-database data pipelines.
+- Building Apache Superset automation and governed analytics workflows.
+- Exploring AI agents, Model Context Protocol (MCP), LLM tool integration, and AI-enabled analytics systems through prototypes and applied workflows.
+
 ## Areas of focus
 
 | Applied machine learning | Graph ML & research | Data & analytics |
@@ -44,11 +60,17 @@ A reproducible clean-room retail analytics engineering project using fully synth
 
 ## Technical toolkit
 
-**Core:** Python · SQL · pandas · NumPy · scikit-learn  
-**ML & research:** PyTorch · PyTorch Geometric · TensorFlow · Graph Neural Networks · Deep Learning  
-**Engineering:** Git · Docker · Linux · Testing · CI · Reproducible Environments · Data Validation  
-**Data & BI:** Power BI · Apache Superset · MySQL · PostgreSQL  
-**Communication:** Technical Documentation · Data Visualization · Research Reporting
+**Core:** Python · SQL · Pandas · NumPy · Scikit-learn
+
+**ML & research:** PyTorch · PyTorch Geometric · TensorFlow · Graph Neural Networks · Deep Learning
+
+**Data engineering:** REST APIs · ETL/ELT · MySQL · PostgreSQL · SQL Server · Incremental Sync · Data Validation
+
+**Analytics & BI:** Apache Superset · Power BI · Analytics Engineering
+
+**AI integration:** AI Agents · Model Context Protocol (MCP) · LLM Applications · Tool Integration
+
+**Engineering:** Git · Docker · Linux · GitHub Actions · CI/CD · Testing · Reproducible Environments
 
 ## How I work
 
